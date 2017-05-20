@@ -1,3 +1,9 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/anon/pen/KmGyQV.
+Portfolio Website:
 
- My portfolio
+This website is about me and my work.
+
+Technologies used:
+
+HTML
+CSS
+Jquery
